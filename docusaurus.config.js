@@ -65,9 +65,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'openwrt/MacOS刷OpenWrt启动U盘',
             position: 'left',
-            label: 'Tailscale',
+            label: 'OpenWrt',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -84,8 +84,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tailscale',
-                to: '/docs/intro',
+                label: 'OpenWrt',
+                to: '/docs/openwrt/软路由硬件选择',
               },
             ],
           },
