@@ -120,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `在${new Date().getFullYear()}年, 用Docusaurus构建。`,
+        copyright: `${new Date().toDateString()}, 用Docusaurus构建。`,
       },
       prism: {
         theme: lightCodeTheme,
